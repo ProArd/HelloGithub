@@ -1,5 +1,6 @@
 /*
 * Hello Github Example Arduino Sketch
+* Just add your GitHUb account ID and I'll add you pull request to the project.
 */
 
 void setup() {
@@ -7,5 +8,6 @@ void setup() {
 }
 
 void loop() {
-  Serial.println("Hello Github");
+  Serial.println("Hello Github from:");
+  Serial.println("Rickl0n");
 }
